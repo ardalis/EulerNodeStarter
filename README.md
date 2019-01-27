@@ -2,9 +2,17 @@
 
 A starting point for solving Project Euler problems using node.js.
 
+## Give a Star! :star:
+
+If you like this project, please give it a star. Thanks!
+
 # Getting Started
 
-[Install node / npm](https://nodejs.org/en/download/).
+You can either download/clone this repo, or probably better is to fork it to your own account. Then follow the instructions below.
+
+[Install node / npm](https://nodejs.org/en/download/). If you don't already have it...
+
+From the root of this repo's folder run the following commands. You only need the install step the first time you run it:
 
 ```
 npm install
