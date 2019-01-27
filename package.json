@@ -1,26 +1,27 @@
 {
-  "name": "euler",
-  "version": "1.0.0",
-  "description": "Solutions to various Proje Euler problems.",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ardalis/EulerNode.git"
-  },
-  "keywords": [
-    "node",
-    "euler"
-  ],
-  "author": "Steve \"@ardalis\" Smith",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ardalis/EulerNode/issues"
-  },
-  "homepage": "https://github.com/ardalis/EulerNode#readme",
-  "dependencies": {
-    "argparse": "^1.0.10"
-  }
+    "name": "euler",
+    "version": "1.0.0",
+    "description": "Solution starting point for Project Euler problems.",
+    "main": "index.js",
+    "scripts": { "test": "jasmine" },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ardalis/EulerNodeStarter.git"
+    },
+    "keywords": [
+        "node",
+        "euler"
+    ],
+    "author": "Steve \"@ardalis\" Smith",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ardalis/EulerNodeStarter/issues"
+    },
+    "homepage": "https://github.com/ardalis/EulerNodeStarter#readme",
+    "dependencies": {
+        "argparse": "^1.0.10"
+    },
+    "devDependencies": {
+        "jasmine": "^3.3.1"
+    }
 }
