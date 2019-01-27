@@ -4,7 +4,7 @@ A starting point for solving Project Euler problems using node.js.
 
 # Getting Started
 
-Install node / npm.
+[Install node / npm](https://nodejs.org/en/download/).
 
 ```
 npm install
