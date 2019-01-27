@@ -1,13 +1,14 @@
 describe("problem1", function() {
-    var Problem1 = require('../../solutions/problem1');
-    var problem1;
+    let problemNumber = "problem1"; // TODO: CHANGE THIS LINE AND PREVIOUS LINE
+    var Solution = require('../../solutions/' + problemNumber);
+    var solution;
 
     beforeEach(function() {
-        problem1 = new Problem1();
+        solution = new Solution();
     });
 
     it("should return correct answer from solve", function() {
-        let result = problem1.solve();
+        let result = solution.solve();
 
         expect(result).toEqual(-1); // TODO: Change this to correct answer
     });
