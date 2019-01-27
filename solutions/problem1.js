@@ -7,14 +7,14 @@ function Problem1() {
         return sum;
     }
 
-    Problem1.prototype.solve = function(max) {
+    Problem1.prototype.solveForMax = function(max) {
         return sumMultiples(max);
+    };
+
+    // called by index.js for this problem
+    Problem1.prototype.solve = function() {
+        return sumMultiples(1000);
     };
 }
 
 module.exports = Problem1;
-
-exports.solve = function() {
-    let problem1 = new Problem1();
-    return problem1.solve(1000);
-}

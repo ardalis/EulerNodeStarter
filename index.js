@@ -20,6 +20,6 @@ if (args['problem']) {
     var script = "problem" + args['problem'];
     console.log('running script ' + script);
     var solution = require('./solutions/' + script);
-    var result = solution.solve();
+    var result = new solution().solve();
     console.log('Solution: ' + result);
 }
