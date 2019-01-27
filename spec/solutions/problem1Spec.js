@@ -9,6 +9,6 @@ describe("problem1", function() {
     it("should return correct answer from solve", function() {
         let result = problem1.solve();
 
-        expect(result).toEqual(-1); // TODO: Change this to correct answer
+        expect(result).toEqual(0); // TODO: Change this to correct answer
     });
 });
