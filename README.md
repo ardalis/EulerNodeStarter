@@ -33,3 +33,6 @@ To find the problems and verify your solutions go to ProjectEuler.net:
 - [Problem List](https://projecteuler.net/archives)
 - [Register](https://projecteuler.net/register) so you can track your progress
 
+## Solutions (WARNING: SPOILERS)
+
+My own implementation of these problems is in my [EulerNode](https://github.com/ardalis/EulerNode) repository. You should only look there if you get totally stuck on something yourself, though.
