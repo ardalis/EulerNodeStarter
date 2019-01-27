@@ -33,6 +33,10 @@ To find the problems and verify your solutions go to ProjectEuler.net:
 - [Problem List](https://projecteuler.net/archives)
 - [Register](https://projecteuler.net/register) so you can track your progress
 
+## Video / YouTube
+
+I set this up on a live stream from [twitch.tv/ardalis](https://www.twitch.tv/ardalis) and the [recording is on YouTube](https://www.youtube.com/watch?v=KELs9ksg6_s).
+
 ## Solutions (WARNING: SPOILERS)
 
 My own implementation of these problems is in my [EulerNode](https://github.com/ardalis/EulerNode) repository. You should only look there if you get totally stuck on something yourself, though.
