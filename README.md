@@ -6,6 +6,10 @@ A starting point for solving Project Euler problems using node.js.
 
 If you like this project, please give it a star. Thanks!
 
+My progress:
+
+![ardalis Euler Progress](https://projecteuler.net/profile/ardalis.png)
+
 ### Other Project Euler Starters
 
 - [C# / .NET Core](https://github.com/ardalis/EulerCSharpStarter)
